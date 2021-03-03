@@ -1,4 +1,4 @@
 12345
 branch2 1
-branch2 2
+branch1 2
 branch2 3
